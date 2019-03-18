@@ -1,0 +1,6 @@
+language: python
+python: "3.7-dev"
+install:
+- pip install requests
+- wget https://github.com/daimiaopeng/ithome_qiandao/blob/master/python%E8%BD%ACexe%E4%BB%A3%E7%A0%81 -O ithome.py
+script: echo -e "$user\n$password" | python ithome.py
