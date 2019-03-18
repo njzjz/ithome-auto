@@ -1,5 +1,5 @@
 # ITHome-Travis
-用Travis-CI实现IT之家自动签到
+用Travis-CI实现IT之家自动签到，基于[daimiaopeng](https://github.com/daimiaopeng)的[ithome_qiandao](https://github.com/daimiaopeng/ithome_qiandao)
 
 ## 用法
 1. fork本项目;
