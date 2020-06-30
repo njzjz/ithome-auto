@@ -1,6 +1,6 @@
 '''ITHome automatic check in.
 
-Based on https://github.com/daimiaopeng/ithome_qiandao	
+Based on https://github.com/daimiaopeng/ithome_qiandao
 '''
 import requests
 import json
