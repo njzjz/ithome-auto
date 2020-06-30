@@ -1,4 +1,5 @@
-'''ITHome automatic check in.	
+'''ITHome automatic check in.
+
 Based on https://github.com/daimiaopeng/ithome_qiandao	
 '''
 import requests
